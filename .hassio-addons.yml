@@ -4,5 +4,4 @@ addons:
   home-panel:
     repository: timmo001/addon-home-panel
     target: home-panel
-    image: timmo001/addon-home-panel
-
+    image: timmo001/addon-home-panel-{arch}
