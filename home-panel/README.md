@@ -37,11 +37,13 @@ A touch-compatible web-app for controlling the home. Integrates with
 
 ![Radio Screenshot][radio]
 
+![Forest Theme][theme-forest]
+
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2018.svg
-[release-shield]: https://img.shields.io/badge/version-v0.1.2-blue.svg
-[release]: https://github.com/timmo001/addon-home-panel/tree/v0.1.2
-[docs]: https://github.com/timmo001/addon-home-panel/blob/v0.1.2/README.md
+[release-shield]: https://img.shields.io/badge/version-v0.1.3-blue.svg
+[release]: https://github.com/timmo001/addon-home-panel/tree/v0.1.3
+[docs]: https://github.com/timmo001/addon-home-panel/blob/v0.1.3/README.md
 [hass]: https://www.home-assistant.io/
 [home-panel]: https://github.com/timmo001/home-panel
 [light-theme]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/light-theme.png
@@ -49,3 +51,4 @@ A touch-compatible web-app for controlling the home. Integrates with
 [more-info-light]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/more-info-light.png
 [more-info-dark]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/more-info-dark.png
 [radio]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/radio.png
+[theme-forest]: https://raw.githubusercontent.com/timmo001/home-panel/master/docs/resources/theme-forest.png
