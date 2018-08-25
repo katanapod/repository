@@ -1,8 +1,5 @@
-[Full Changelog](https://github.com/timmo001/addon-home-panel/compare/v0.1.2...v0.1.3)
+[Full Changelog](https://github.com/timmo001/addon-home-panel/compare/v0.1.3...v0.1.4)
 
 ## Changed
 
-* Upgrade base app to v0.5.4
-* Upgrade base API to v0.2.4
-* Update art
-* Add custom themes to the default template
+* Upgrade base app to [v0.5.5](https://github.com/timmo001/home-panel/releases/tag/v0.5.5)
