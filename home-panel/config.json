@@ -3,7 +3,7 @@
   "version": "0.2.1",
   "slug": "home-panel",
   "description": "A touch-compatible web-app for controlling the home",
-  "url": "https://github.com/timmo001/addon-home-panel",
+  "url": "https://github.com/katanapod/addon-home-panel",
   "webui": "[PROTO:ssl]://[HOST]:[PORT:8234]",
   "startup": "application",
   "arch": [
